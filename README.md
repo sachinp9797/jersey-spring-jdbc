@@ -1,4 +1,4 @@
-# WebProjectWithSpringJDBC
+# Jersey Spring JDBC
 
 A hands-on exploration of wiring **Spring IoC**, **Jersey JAX-RS**, and **plain JDBC** together — without Spring Boot's abstractions removing the interesting parts.
 
